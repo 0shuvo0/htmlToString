@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "0shuvo0",
-  "tags": ["htmltostring", "html", "dom", "string", "tostring"],
+  "keywords": ["htmltostring", "html", "dom", "string", "tostring"],
   "license": "ISC",
-  "github": "https://github.com/0shuvo0/htmlToString"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0shuvo0/htmlToString.git"
+  },
+  "homepage": "https://github.com/0shuvo0/htmlToString"
 }
