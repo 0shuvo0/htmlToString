@@ -13,6 +13,7 @@
 
 ### Usage
 ```js
+//you don't have to import if you're using CDN
 import htmlToString from 'htmltostring'
 
 console.log(htmlToString('.container'))
