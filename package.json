@@ -1,6 +1,6 @@
 {
   "name": "htmltostring",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "convert html DOM element to string",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "author": "0shuvo0",
   "tags": ["htmltostring", "html", "dom", "string", "tostring"],
-  "license": "ISC"
+  "license": "ISC",
+  "github": "https://github.com/0shuvo0/htmlToString"
 }
