@@ -14,9 +14,10 @@ console.log(htmlToString('.container'))
 // or 
 // const container = document.querySelector('.container')
 // console.log(htmlToString(container))
-
-// example output:
-// <div class="container">
-//   <h1>Hello World</h1>
-// </div>
+```
+### Example Output
+```
+<div class="container">
+    <h1>Hello World</h1>
+</div>
 ```
