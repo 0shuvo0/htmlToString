@@ -6,6 +6,8 @@
 
 ### Installation
 `npm install htmltostring`
+### Or using CDN
+`<script src="https://raw.githubusercontent.com/0shuvo0/htmlToString/main/htmlToString.min.js"></script>`
 
 ### Usage
 ```js
