@@ -1,0 +1,12 @@
+{
+  "name": "htmltostring",
+  "version": "1.0.0",
+  "description": "convert html DOM elemnt to string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0shuvo0",
+  "tags": ["htmltostring", "html", "dom", "string", "tostring"],
+  "license": "ISC"
+}
