@@ -1,4 +1,4 @@
-![htmlToString explaination meme](preview.png)
+![htmlToString explaination meme](https://github.com/0shuvo0/htmlToString/raw/main/preview.png)
 
 # htmlToString
 ## convert html/DOM element to string
