@@ -8,7 +8,7 @@
 `npm install htmltostring`
 ### Or using CDN
 ```html
-<script src="https://raw.githubusercontent.com/0shuvo0/htmlToString/main/htmlToString.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/htmltostring@1.0.6/htmlToString.min.js"></script>
 ```
 
 ### Usage
