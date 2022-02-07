@@ -1,7 +1,8 @@
 ![htmlToString explaination meme](https://github.com/0shuvo0/htmlToString/raw/main/preview.png)
 
 # htmlToString
-## convert html/DOM element to string
+## Convert html/DOM element to string
+### Works with rendered and virtual DOM
 
 ### Installation
 `npm install htmltostring`

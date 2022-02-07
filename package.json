@@ -1,6 +1,6 @@
 {
   "name": "htmltostring",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "convert html DOM element to string",
   "main": "index.js",
   "scripts": {
